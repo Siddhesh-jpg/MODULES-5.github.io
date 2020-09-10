@@ -214,6 +214,9 @@ font-style: bold;
   h1{
    font-size:60%;
    }
+  .btn{
+   padding:8px 25px;
+   }
   
   .mobile-icon{
       display:inline-block;
